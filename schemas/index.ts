@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import article from "./article.ts"
+
+export const schemaTypes = [article]
